@@ -1,7 +1,5 @@
 ## Meetei Script (ꯃꯤꯇꯩ ꯃꯌꯦꯛ)
 
-checking 
-
 Meetei script is an abugida used for Meeteilon (the official language for the Manipuris). The word "Meetei" is sometimes written as "Meitei" and as such, they should be considered synonymous and interchageable although "Meetei" has reasons to be preferred. Historical records suggest that it is at least 900 years old. The name of its letters are the names of human body parts and they also serve as phonetic names. It was encoded in Unicode in 2009.
 
 ### Unicode (UTF-16)
